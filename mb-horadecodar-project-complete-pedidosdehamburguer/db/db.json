@@ -1,0 +1,319 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 5,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 6,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "nome": "Lucas Teixeira",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Salame",
+        "Tomate"
+      ],
+      "status": "Em produção",
+      "id": 1
+    },
+    {
+      "nome": "Eduardo Teixeira ",
+      "carne": "Alcatra",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    },
+    {
+      "nome": "JULIANA KELLYS MARIA DA SILVA TEIXEIRA",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Salame",
+        "Cebola roxa",
+        "Pepino",
+        "Tomate"
+      ],
+      "status": "Finalizado",
+      "id": 3
+    },
+    {
+      "nome": "Damiana da Silva ",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa",
+        "Cheddar",
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Finalizado",
+      "id": 4
+    },
+    {
+      "nome": "Rita Maria ",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Tomate"
+      ],
+      "status": "Em produção",
+      "id": 6
+    },
+    {
+      "nome": "Patricia Assis",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 7
+    },
+    {
+      "nome": "Sofia Vitoria ",
+      "carne": "Veggie burger",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 8
+    },
+    {
+      "nome": "Daniel Fernando",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 9
+    },
+    {
+      "nome": "Fernanda Perim ",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa",
+        "Cheddar",
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 10
+    },
+    {
+      "nome": "Kauan Fernando",
+      "carne": "Veggie burger",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Salame",
+        "Cebola roxa",
+        "Pepino",
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 11
+    },
+    {
+      "nome": "Eduardo de Souza Teixeira ",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 12
+    },
+    {
+      "nome": "Cristiana Ribeiro ",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 13
+    },
+    {
+      "nome": "Jurandir",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "",
+      "id": 14
+    },
+    {
+      "nome": "Francisco Pereira",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Finalizado",
+      "id": 15
+    },
+    {
+      "nome": "Damião Assis",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "",
+      "id": 16
+    },
+    {
+      "nome": "Pamella Perim ",
+      "carne": "Maminha",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Salame",
+        "Tomate"
+      ],
+      "status": "",
+      "id": 17
+    },
+    {
+      "nome": "Wellington Pereira ",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Tomate"
+      ],
+      "status": "",
+      "id": 18
+    },
+    {
+      "nome": "Miguel Emanuel ",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Tomate",
+        "Salame",
+        "Cheddar"
+      ],
+      "status": "",
+      "id": 19
+    },
+    {
+      "nome": "Diego Mariano",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Salame",
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Em produção",
+      "id": 20
+    }
+  ]
+}
