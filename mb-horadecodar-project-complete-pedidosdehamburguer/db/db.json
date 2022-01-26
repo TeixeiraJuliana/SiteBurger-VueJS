@@ -86,7 +86,7 @@
         "Salame",
         "Tomate"
       ],
-      "status": "Em produção",
+      "status": "Solicitado",
       "id": 1
     },
     {
@@ -300,20 +300,6 @@
       ],
       "status": "",
       "id": 19
-    },
-    {
-      "nome": "Diego Mariano",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Cheddar",
-        "Salame",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Em produção",
-      "id": 20
     }
   ]
 }
